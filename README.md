@@ -6,5 +6,5 @@
 # Installation
 
 * import database in docs/myProducts.sql
-* edit config/config.php
+* rename config/config.example.php to config/config.php and edit your DB setting
 
